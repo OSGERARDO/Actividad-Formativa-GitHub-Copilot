@@ -14,9 +14,8 @@ Primero se creó el archivo `recommendation_system.py` utilizando Visual Studio 
 
 Este archivo contiene el código correspondiente al sistema de recomendación desarrollado durante la actividad.
 
-**Captura de pantalla:**
 
-![Creación del archivo recommendation\_system.py](capturas/recommendation_system.png)
+
 
 ## 3. Uso de GitHub Copilot
 
@@ -28,9 +27,7 @@ Se utilizó el siguiente prompt:
 
 GitHub Copilot generó una propuesta inicial de código a partir de las instrucciones entregadas. Posteriormente, el código fue revisado para comprobar su funcionamiento.
 
-**Captura de pantalla:**
 
-![Generación del código con GitHub Copilot](capturas/copilot.png)
 
 ## 4. Prueba del programa
 
@@ -38,9 +35,7 @@ Una vez generado el código, se ejecutó el archivo `recommendation_system.py` d
 
 El objetivo de esta prueba fue comprobar que el programa se ejecutara correctamente y que entregara las recomendaciones correspondientes.
 
-**Captura de pantalla:**
 
-![Ejecución del programa](capturas/ejecucion.png)
 
 ## 5. Control de versiones con Git
 
